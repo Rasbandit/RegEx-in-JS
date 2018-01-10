@@ -73,7 +73,7 @@ To get you comfortable using RegEx you should clone this repo and use your text 
 
 `.test()` This method goes on a RegEx and takes in a string. It returns true if a match can be found and false if not.
 
-`.split()` This method goes on a RegEx and can take in RegEx so describe how to split up a string into an array
+`.split()` This method goes on a String and can take in a RegEx to describe how to split up a string into an array
 
 `.replace()` This method goes on a string and can take in a RegEx
 
